@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ふたりのヴィリジアンド",
+  "base_artist": "やなぎなぎ",
+  "createdAt": "2026-03-05T06:48:05.487652Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりのヴィリジアンド",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりのヴィリジアンド_やなぎなぎ.txt"
+    }
+  ]
+}
